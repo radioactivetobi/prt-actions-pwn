@@ -1,0 +1,17 @@
+# Local blog drafts (not published with this repo)
+blog-post*.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Secrets / env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
